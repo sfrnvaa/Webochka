@@ -1,2 +1,2 @@
 # Webochka
-https://sfrnvaa.github.io/Webochka/
+https://sfrnvaa.github.io/Webochka/cv
